@@ -2,7 +2,7 @@
 title: Artillery Wiki
 description: 
 published: true
-date: 2020-04-11T05:20:07.572Z
+date: 2020-04-11T05:20:12.404Z
 tags: 
 ---
 

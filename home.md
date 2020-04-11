@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Artillery Wiki
 description: 
 published: true
-date: 2020-04-11T05:13:07.236Z
+date: 2020-04-11T05:19:16.763Z
 tags: 
 ---
 

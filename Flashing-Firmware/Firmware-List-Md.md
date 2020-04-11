@@ -2,7 +2,7 @@
 title: Firmware List
 description: 
 published: true
-date: 2020-04-11T03:23:37.914Z
+date: 2020-04-11T04:25:47.551Z
 tags: 
 ---
 
@@ -55,7 +55,7 @@ During printing the first layer you can still adjust the distance between the no
 ## Waggster Mod BLTouch Artillery SWX1 (Marlin 1.19)
 
 - [Firmware Downloads](https://pretendprusa.co.uk/index.php?action=downloads;cat=5)
-- [Bltouch Mount](https://www.google.com)
+- [Bltouch Mount](https://www.thingiverse.com/thing:3716043)
 {.links-list}
 
 **Features:**

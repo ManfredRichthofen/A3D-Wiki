@@ -2,14 +2,14 @@
 title: Firmware List
 description: 
 published: true
-date: 2020-04-12T02:05:20.015Z
+date: 2020-04-12T02:05:51.781Z
 tags: 
 ---
 
 # Sidewinder X1
 ## Earl Miller SWX1 (Marlin 1.1.9)
-- [Earl Millers Paypal *PlaceHolder*](https://www.paypal.me/ancientwolfgr)
-- [3D Nexus Website *PlaceHolder*](https://3d-nexus.com/)
+- [Earl Millers Paypal](https://www.paypal.me/ancientwolfgr)
+- [3D Nexus Website](https://3d-nexus.com/)
 - [Firmware Downloads](https://3d-nexus.com/resources/file-archives/download/5-printer-firmware/11-artillery-swx1-marlin-1-1-9-advanced-firmware-and-gui)
 {.links-list}
 
@@ -69,8 +69,8 @@ Bl-Touch an auto leveling sensor for 3D Printers that can precisely measure the 
 
 # Genius
 ## Earl Miller Genius (Marlin 1.1.9)
-- [Earl Millers Paypal *PlaceHolder*](https://www.paypal.me/ancientwolfgr)
-- [3D Nexus Website *PlaceHolder*](https://3d-nexus.com/)
+- [Earl Millers Paypal](https://www.paypal.me/ancientwolfgr)
+- [3D Nexus Website](https://3d-nexus.com/)
 - [Firmware Downloads](https://3d-nexus.com/resources/file-archives/download/5-printer-firmware/12-artillery-genius-marlin-1-1-9-advanced-firmware-and-gui)
 {.links-list}
 

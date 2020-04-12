@@ -2,7 +2,7 @@
 title: Flashing Firmware
 description: 
 published: true
-date: 2020-04-11T09:39:29.978Z
+date: 2020-04-12T02:14:02.840Z
 tags: 
 ---
 
@@ -30,6 +30,8 @@ Run the command `sudo apt-get update && sudo apt-get install avrdude` type y whe
 ![pasted_image_0_(1).png](/flashing-assets/pasted_image_0_(1).png)
 
 Now download the firmware I'm going to download Pinguinpfleger Marlin Firmware using the command `wget https://github.com/pinguinpfleger/ASWX1-FW-MOD/releases/download/ASWX1-FW-MOD-v1.2/ASWX1-FW-MOD-v1.2.zip`
+>Note: Make sure you get the latest firmware the download pages can be found [here](https://artillery.3dwiki.xyz/Flashing-Firmware/Firmware-List-Md)
+{.is-warning}
 
 ![pasted_image_0_(2).png](/flashing-assets/pasted_image_0_(2).png)
 

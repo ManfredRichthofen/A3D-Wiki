@@ -2,7 +2,7 @@
 title: Firmware List
 description: 
 published: true
-date: 2020-04-12T02:05:51.781Z
+date: 2020-04-12T02:07:27.043Z
 tags: 
 ---
 
@@ -42,7 +42,7 @@ PID Tuning improves your hotend/bed temperature stability and will positively im
 
 Save to EEPROMEnabled EEPROM M500 to persist settings.Now you can store PIDs and Z-Offsets to EEPROM
 
-LINEAR ADVANCE activatedLinear Advance brings you better dimensional precision due to reduced bleeding edges.Higher printing speeds are possible without any loss of print quality - as long as your extruder can handle the needed speed changes.Visible and tangible print quality is increased even at lower printing speeds.No need for high acceleration and jerk values to get sharp edges.Read https://marlinfw.org/docs/features/lin_advance.html for more details and how to calibrate.By default the K_Factor is set to 0, so it is disabled.To enable it using gcode you should first calibrate your specific K factor.You can do this here. Accordingly set the K factor within your slicer using e.g. M900 K0.2
+LINEAR ADVANCE activatedLinear Advance brings you better dimensional precision due to reduced bleeding edges.Higher printing speeds are possible without any loss of print quality - as long as your extruder can handle the needed speed changes. Visible and tangible print quality is increased even at lower printing speeds. No need for high acceleration and jerk values to get sharp edges.Read https://marlinfw.org/docs/features/lin_advance.html for more details and how to calibrate. By default the K_Factor is set to 0, so it is disabled. To enable it using gcode you should first calibrate your specific K factor. You can do this here. Accordingly set the K factor within your slicer using e.g. M900 K0.2
 
 S_CURVE ACCELERATION activatedThis option eliminates vibration during printing by fitting a Bézier curve to move acceleration, producing much smoother direction changes.
 

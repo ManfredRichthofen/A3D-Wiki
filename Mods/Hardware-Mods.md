@@ -2,7 +2,7 @@
 title: Hardware Mods
 description: 
 published: true
-date: 2020-04-15T15:52:38.487Z
+date: 2020-04-15T22:26:46.433Z
 tags: 
 ---
 
@@ -23,3 +23,31 @@ The LED light is not working
 https://www.amazon.com/BIGTREETECH-Smoothieware-Controller-Compatible-With12864LCD/dp/B07VR975J5?ref_=ast_sto_dp
 https://www.thingiverse.com/thing:4108371
 https://www.amazon.com/BIGTREETECH-TMC2209-Stepper-Driver-Printer/dp/B07W5S3KVF?ref_=ast_sto_dp
+###### How To
+
+## New Nozzle
+###### Benefits:
+
+
+###### Negatives
+
+
+###### Needed Materials
+
+
+###### How To
+
+## New Hotend 
+###### Benefits:
+
+
+###### Negatives
+
+
+###### Needed Materials
+
+
+###### How To
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhuYyovlkXYWDlIWcRKXYWYdJTeDhZUnD5dcrkPApV1sFqRA/viewform?embedded=true" width="640" height="1541" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

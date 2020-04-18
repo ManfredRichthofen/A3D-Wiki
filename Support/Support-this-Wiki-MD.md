@@ -2,7 +2,7 @@
 title: Support this Wiki
 description: 
 published: true
-date: 2020-04-12T02:04:37.286Z
+date: 2020-04-18T19:47:53.961Z
 tags: 
 ---
 
@@ -15,3 +15,6 @@ This will be used to pay for the server hosting of the wiki. Excess will go to d
 [Paypal](https://www.paypal.me/jacobbeckerle1?locale.x=en_US)
 
 [Digital Ocean Referral Link](https://www.digitalocean.com/?refcode=5017673479ff&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
+
+- [Affiliate Links](https://www.thingiverse.com/dreadpirateroberts6521/collections/swx1-discord)
+{.links-list}

@@ -2,7 +2,7 @@
 title: Flashing Firmware
 description: 
 published: true
-date: 2020-04-12T02:14:02.840Z
+date: 2020-04-18T19:09:02.486Z
 tags: 
 ---
 
@@ -53,3 +53,5 @@ Move the files similar to the ones in the picture to the root of the sdcard. It 
 Plug the SD card into your printer then reboot
 
 # Flashing Using Prusaslicer or Cura
+
+# Flashing Using A Raspberry Pi (TFT Unplugged)

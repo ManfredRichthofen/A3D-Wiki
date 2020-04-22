@@ -2,7 +2,7 @@
 title: Support this Wiki
 description: 
 published: true
-date: 2020-04-22T06:53:06.915Z
+date: 2020-04-22T06:53:54.454Z
 tags: 
 ---
 
@@ -11,6 +11,8 @@ The best way to support this wiki is to help write it if you have a document you
 
 #### Other
 This will be used to pay for the server hosting of the wiki. Excess will go to donations to help support the Artillery 3D Community and Potential giveaways in the discord server.
+
+[Brave Browser](https://brave.com/?ref=dwi412)
 
 [Paypal](https://www.paypal.me/jacobbeckerle1?locale.x=en_US)
 

@@ -2,11 +2,12 @@
 title: Affiliate Links
 description: 
 published: true
-date: 2020-04-18T20:07:24.083Z
+date: 2020-04-22T06:52:37.691Z
 tags: 
 ---
 
 
+## Printers
 
 ## Filament
 ##### PLA

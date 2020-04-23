@@ -2,7 +2,7 @@
 title: Artillery Wiki
 description: 
 published: true
-date: 2020-04-23T05:41:55.469Z
+date: 2020-04-23T05:42:17.251Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ tags:
 {.links-list}
 
 ### Support Groups
-- [Facebook](https://www.facebook.com/groups/artilleryswx1/)
+- [Facebook (Official)](https://www.facebook.com/groups/artilleryswx1/)
 - [Reddit](https://www.reddit.com/r/Artillery3D/)
 - [Discord](https://discord.gg/h273VeU)
 {.links-list}

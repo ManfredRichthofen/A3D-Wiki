@@ -2,7 +2,7 @@
 title: OctoPrint
 description: 
 published: true
-date: 2020-04-27T03:13:08.041Z
+date: 2020-04-27T03:13:33.794Z
 tags: 
 ---
 
@@ -68,10 +68,8 @@ services:
       ![2.jpg](/2.jpg)
       
       ![3.jpg](/3.jpg)
-      
-      
-      
-      ![5.jpg](/5.jpg)
+     
+      ![4.jpg](/4.jpg)
       
       ![6.jpg](/6.jpg)
       

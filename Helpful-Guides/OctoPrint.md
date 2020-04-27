@@ -2,7 +2,7 @@
 title: OctoPrint
 description: 
 published: true
-date: 2020-04-27T02:23:15.909Z
+date: 2020-04-27T03:03:48.789Z
 tags: 
 ---
 
@@ -13,6 +13,8 @@ tags:
 
 2. Apply executable permissions to the binary.
 `sudo chmod +x /usr/local/bin/docker-compose`
+
+![1.jpg](/1.jpg)
 
 3. To test the version number.
 `docker-compose --version`
@@ -53,7 +55,19 @@ services:
 5. Save and exit the docker-compose.yml
 
 6. Run the command `sudo docker-compose up` this will pull the images start Octofarm and create a mongo database
+ 
+7. You should then be able to navigate to http://serverip:4000 then follow the steps to create a new user
+
+      ![2.jpg](/2.jpg)
       
+      ![3.jpg](/3.jpg)
       
+      ![4.jpg](/4.jpg)
       
+      ![5.jpg](/5.jpg)
+      
+      ![6.jpg](/6.jpg)
+      
+      ![7.jpg](/7.jpg)
+ 
 

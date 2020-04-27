@@ -2,11 +2,18 @@
 title: OctoPrint
 description: 
 published: true
-date: 2020-04-27T03:03:48.789Z
+date: 2020-04-27T03:09:18.904Z
 tags: 
 ---
 
 # OctoFarm Install and Setup
+###### Resources
+Test Server http://test.octofarm.net/
+Username:demo
+Password:demo123
+[Website](https://octofarm.net/)
+[Github](https://github.com/NotExpectedYet/OctoFarm)
+
 ###### Installing docker compose
 1. The first step is intalling docker compose. Run this command to download the current stable release of Docker Compose. (Check the latest version [here](https://github.com/docker/compose/releases) and replace 1.25.5 with the newest version)
 `sudo curl -L "https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`

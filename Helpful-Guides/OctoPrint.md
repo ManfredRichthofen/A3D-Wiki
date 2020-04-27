@@ -2,7 +2,7 @@
 title: OctoPrint
 description: 
 published: true
-date: 2020-04-27T03:13:33.794Z
+date: 2020-04-27T03:18:02.866Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ Password:demo123
 2. Apply executable permissions to the binary.
 `sudo chmod +x /usr/local/bin/docker-compose`
 
-![1.jpg](/1.jpg)
+![1.jpg](/octoprint/1.jpg)
 
 3. To test the version number.
 `docker-compose --version`
@@ -65,14 +65,16 @@ services:
  
 7. You should then be able to navigate to http://serverip:4000 then follow the steps to create a new user
 
-      ![2.jpg](/2.jpg)
+![2.jpg](/octoprint/2.jpg)
       
-      ![3.jpg](/3.jpg)
+![3.jpg](/octoprint/3.jpg)
      
-      ![4.jpg](/4.jpg)
+![4.jpg](/octoprint/4.jpg)
+
+![inked5_li.jpg](/octoprint/inked5_li.jpg) 
+
+![6.jpg](/octoprint/6.jpg)
       
-      ![6.jpg](/6.jpg)
-      
-      ![7.jpg](/7.jpg)
+![7.jpg](/octoprint/7.jpg)
  
 

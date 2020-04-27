@@ -2,13 +2,14 @@
 title: Support this Wiki
 description: 
 published: true
-date: 2020-04-22T06:53:54.454Z
+date: 2020-04-27T03:46:02.778Z
 tags: 
 ---
 
 #### Submit an Article
-The best way to support this wiki is to help write it if you have a document you want to submit let me know on the [Discord](https://discord.gg/h273VeU)
-
+The best way to support this wiki is to help write it if you have a document you want to submit fill out the forms below or let me know on the [Discord](https://discord.gg/h273VeU)
+**3D Printed Mods** <https://forms.gle/HrhSjpuMVM2YiknD6>
+**Hardware Mods** <https://forms.gle/A1rsEHgmBZryWVPk7>
 #### Other
 This will be used to pay for the server hosting of the wiki. Excess will go to donations to help support the Artillery 3D Community and Potential giveaways in the discord server.
 

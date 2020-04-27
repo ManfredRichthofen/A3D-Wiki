@@ -2,7 +2,7 @@
 title: Hardware Mods
 description: 
 published: true
-date: 2020-04-15T22:26:46.433Z
+date: 2020-04-27T03:42:57.249Z
 tags: 
 ---
 
@@ -48,6 +48,3 @@ https://www.amazon.com/BIGTREETECH-TMC2209-Stepper-Driver-Printer/dp/B07W5S3KVF?
 
 
 ###### How To
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhuYyovlkXYWDlIWcRKXYWYdJTeDhZUnD5dcrkPApV1sFqRA/viewform?embedded=true" width="640" height="1541" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

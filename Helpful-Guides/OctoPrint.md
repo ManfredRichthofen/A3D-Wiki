@@ -2,7 +2,7 @@
 title: OctoPrint
 description: 
 published: true
-date: 2020-04-27T03:18:02.866Z
+date: 2020-04-29T17:43:08.245Z
 tags: 
 ---
 
@@ -64,6 +64,8 @@ services:
 6. Run the command `sudo docker-compose up` this will pull the images start Octofarm and create a mongo database
  
 7. You should then be able to navigate to http://serverip:4000 then follow the steps to create a new user
+> Make sure you enable Cross Origin Resource Sharing (CORS) under the API setting in octoprint
+{.is-warning}
 
 ![2.jpg](/octoprint/2.jpg)
       

@@ -2,7 +2,7 @@
 title: OctoPrint
 description: 
 published: true
-date: 2020-04-29T17:43:13.985Z
+date: 2020-05-22T20:03:18.076Z
 tags: 
 ---
 
@@ -78,5 +78,25 @@ services:
 ![6.jpg](/octoprint/6.jpg)
       
 ![7.jpg](/octoprint/7.jpg)
+
+## Add Live Z Baby stepping to Octoprint
+
+controls:
+  - name: Baby Stepping
+    layout: vertical
+    children:
+    - name: Up
+      command: M290 Z%(distance)s
+      input:
+      - default: .25
+        name: Distance
+        parameter: distance
+    - name: Down
+      command: M290 Z-.25
+      input:
+      - default: .25
+        name: Distance
+        parameter: distance
+
  
 

@@ -2,7 +2,7 @@
 title: OctoPrint
 description: 
 published: true
-date: 2020-05-22T20:03:18.076Z
+date: 2020-05-22T20:28:42.199Z
 tags: 
 ---
 
@@ -79,8 +79,23 @@ services:
       
 ![7.jpg](/octoprint/7.jpg)
 
-## Add Live Z Baby stepping to Octoprint
+# Add Live Z Baby stepping to Octoprint
 
+Tools
+
+An internet connectionRaspberry Pi running some debian/ubuntu flavor (eg octopi or raspbian) Pc with some form of SSH [Like Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+SSH into the pi by typing the ip address into the host name of putty for me its 192.168.1.120.
+
+![pasted_image_0.png](/flashing-assets/pasted_image_0.png)
+
+Enter the username and password the default for raspbian(not your octopi username) is
+
+Username: pi
+
+Password: raspberry
+
+```
 controls:
   - name: Baby Stepping
     layout: vertical
@@ -97,6 +112,11 @@ controls:
       - default: .25
         name: Distance
         parameter: distance
+```
+
+
+        
+ 
 
  
 

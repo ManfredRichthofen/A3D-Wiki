@@ -2,7 +2,7 @@
 title: Firmware List
 description: 
 published: true
-date: 2020-06-11T06:07:02.632Z
+date: 2020-06-11T06:08:04.258Z
 tags: 
 editor: markdown
 ---
@@ -84,7 +84,10 @@ Save to EEPROMEnabled EEPROM to persist settings. Now you can store PIDs and Z o
 
 P.I.D. Auto-tune - Extruder AND Bed In One OperationPID Tuning improves your hotend/bed temperature stability and will positively impact print quality. This command initiates a process of heating and cooling to determine the proper PID values for your hotend. This may take up to 10 minutes. During the tuning process the LED will stay Red. Once the process is finished, the LED will turn Green. Make sure you wait! Your machine specific PID values are now in use. However, if you want to persist your PID settings you must execute “Store to EEPROM”.
 
-Mesh Bed LevelingMesh Bed Leveling (MBL) allows interactively measuring a Z height mesh without a bed probe (like BLTouch or similar). The only tool required is a piece of paper or a feeler gauge. MBL uses the mesh to compensate for variations in height across the bed. You simply begin the probing and hit save at point 9. I will include a tutorial and perhaps a video demonstrating this process.  There are some important notes below in the tutorial section. Make sure you read them.
+> Mesh Bed Leveling can not be used concurrently with baby-stepping 
+{.is-warning}
+
+Mesh Bed LevelingMesh Bed Leveling (MBL) allows interactively measuring a Z height mesh without a bed probe (like BLTouch or similar). The only tool required is a piece of paper or a feeler gauge. MBL uses the mesh to compensate for variations in height across the bed. You simply begin the probing and hit save at point 9. I will include a tutorial and perhaps a video demonstrating this process.
 
 Linear AdvanceLinear Advance is now activated, but the set the K_Factor to 0, so it is disabled. To enable it using gcode you should first calibrate your specific K factor. You can do this here. Accordingly set the K factor within your slicer or command interface using e.g. M900 K0.2 (as an example)
 
